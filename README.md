@@ -1,4 +1,4 @@
-# IFTTT Dash Button (in development)
+# IFTTT Dash Button
 A (slightly) modified version of [Gangster45671](https://github.com/Gangster45671)'s [IFTT Dash Button](https://github.com/Gangster45671/IFTTT-Dash-Button).
 ## Modifications
 - When constructing the querystring to submit data to remote server, be tolerant of the fact that the configured URL may already have a querystring (i.e. append an "&" if the URL already contains a "?").
